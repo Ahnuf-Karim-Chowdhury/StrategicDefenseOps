@@ -1,5 +1,8 @@
-[📹 Watch Demo Video](https://github.com/Ahnuf-Karim-Chowdhury/StrategicDefenseOps/raw/refs/heads/main/Video/0706%20(3).mp4)
-
+<p align="center">
+  <a href="https://youtu.be/YZhR0Sszoz4?si=LXfPgp8lD_Rwpy0Q" target="_blank">
+    <img src="https://img.youtube.com/vi/YZhR0Sszoz4/0.jpg" alt="Watch the video" style="max-width: 100%; height: auto;">
+  </a>
+</p>
 
 **🎯✨ Strategic Defense Operations and Command Resource Coordination Management System** 🛡️🚀
 
