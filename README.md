@@ -1,4 +1,8 @@
-#  ![Logo](assets/logo.webp) **🎯✨ Strategic Defense Operations and Command Resource Coordination Management System** 🛡️🚀
+<video src="https://github.com/Ahnuf-Karim-Chowdhury/StrategicDefenseOps/raw/refs/heads/main/Video/0706%20(3).mp4" controls width="640">
+  Your browser does not support the video tag.
+</video>
+
+**🎯✨ Strategic Defense Operations and Command Resource Coordination Management System** 🛡️🚀
 
 ---
 
